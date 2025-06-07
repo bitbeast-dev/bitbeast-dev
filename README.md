@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turnin
 ---
 
 ## 🌐 Connect with me
-[![Connect on LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Tuyizere%20Honore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuyizere-honore/)
+[![Connect on LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Tuyizere%20Honore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuyizere-honore-a456b933b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beastbit918@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuyizerehonore.vercel.app/)
 
