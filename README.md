@@ -5,3 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbeast-dev&hide=javascript,html)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbeast-dev&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbeast-dev&layout=pie)](https://github.com/bitbeast-dev/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/bitbeast-dev/github-readme-stats)
