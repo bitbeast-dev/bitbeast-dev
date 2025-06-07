@@ -21,25 +21,16 @@ I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turnin
 ---
 
 ## 🚀 GitHub Stats
+### 🏆 Highlight Trophies
 
-![Tuyizere Honore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuyizereHonore&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+[![Youth Code Camp 1st Winner](https://img.shields.io/badge/🏅Youth%20Code%20Camp-🥇%201st%20Winner-orange?style=for-the-badge)]()
+[![USSD Project 3rd Place](https://img.shields.io/badge/🏆USSD%20Project%20Dev-🥉%203rd%20Carnegie%20Mellon-blue?style=for-the-badge)]()
+[![YIHUB Hackathon Winner](https://img.shields.io/badge/🏆YIHUB%20Hackathon-🥇%201st%20Place-success?style=for-the-badge)]()
+[![Founder Youth Code Lab](https://img.shields.io/badge/🚀Founder-Youth%20Code%20Lab%20%26%20Mindcraft%20Tech-purple?style=for-the-badge)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuyizereHonore&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TuyizereHonore&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=TuyizereHonore&theme=tokyonight&row=1&column=7)
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuyizereHonore/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TuyizereHonore)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuyizerehonore@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
 ---
+
 
 ## 🐍 Contribution Graph
 
