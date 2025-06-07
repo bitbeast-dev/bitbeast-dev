@@ -1,36 +1,44 @@
-## I'm Tuyizere Honore 👋
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
-  </p>
+# 👋 Hi there, I'm Tuyizere Honore!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/bitbeast-dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbeast-dev&layout=donut-vertical)](https://github.com/bitbeast-dev/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&hide=contribs,prs)
+I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turning ideas into beautiful, scalable web & mobile applications. I specialize in crafting efficient backends and responsive, elegant UIs. Whether it's writing RESTful APIs or pixel-perfect frontends, I'm all in!
+
+🌍 Currently exploring **DevOps**, **Cloud Computing**, and **AI integration**.
+
+🛠️ Languages & Tools I work with:
+- JavaScript / TypeScript / Python / PHP
+- React / Vue / Next.js / Angular
+- Node.js / Express / Django / Laravel
+- MySQL / MongoDB / PostgreSQL / Firebase
+- Git / Docker / Linux / CI/CD
+
+---
+
+## 🚀 GitHub Stats
+
+![Tuyizere Honore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuyizereHonore&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuyizereHonore&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TuyizereHonore&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TuyizereHonore&theme=tokyonight&row=1&column=7)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuyizereHonore/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TuyizereHonore)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuyizerehonore@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+## 🐍 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TuyizereHonore&theme=tokyo-night)
+
+---
+
+> ⚡ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
