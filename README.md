@@ -14,8 +14,7 @@ I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turnin
 ---
 
 ## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TuyizereHonore/)](https://www.linkedin.com/in/elissa-ntihinduka-282200271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuyizereHonore/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beastbit918@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuyizerehonore.vercel.app/)
 
