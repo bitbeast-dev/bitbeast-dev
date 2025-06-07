@@ -2,7 +2,7 @@
 
 I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turning ideas into beautiful, scalable web & mobile applications. I specialize in crafting efficient backends and responsive, elegant UIs. Whether it's writing RESTful APIs or pixel-perfect frontends, I'm all in!
 
-🌍 Currently exploring **DevOps**, **Cloud Computing**, and **AI integration**.
+🌍 Currently exploring **DevOps**, **Cloud Computing**, and **AI integration** and **Arduino**.
 
 🛠️ Languages & Tools I work with:
 - JavaScript / TypeScript / Python / PHP
@@ -10,6 +10,14 @@ I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turnin
 - Node.js / Express / Django / Laravel
 - MySQL / MongoDB / PostgreSQL / Firebase
 - Git / Docker / Linux / CI/CD
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TuyizereHonore/)](https://www.linkedin.com/in/elissa-ntihinduka-282200271/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beastbit918@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuyizerehonore.vercel.app/)
 
 ---
 
