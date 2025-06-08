@@ -3,6 +3,7 @@
 I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turning ideas into beautiful, scalable web & mobile applications. I specialize in crafting efficient backends and responsive, elegant UIs. Whether it's writing RESTful APIs or pixel-perfect frontends, I'm all in!
 
 🌍 Currently exploring **DevOps**, **Cloud Computing**, and **AI integration** and **Arduino**.
+https://github-contrib-stats.vercel.app/api/?username=bitbeast-dev
 
 🛠️ Languages & Tools I work with:
 - JavaScript / TypeScript / Python / PHP
