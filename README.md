@@ -1,11 +1,4 @@
 # 👋 Hi there, I'm Tuyizere Honore!
-### 🧑‍💻 GitHub Contribution Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bitbeast-dev&theme=radical)
-
-
-
 
 I'm a passionate **Full Stack Developer** from Rwanda 🇷🇼, who loves turning ideas into beautiful, scalable web & mobile applications. I specialize in crafting efficient backends and responsive, elegant UIs. Whether it's writing RESTful APIs or pixel-perfect frontends, I'm all in!
 
