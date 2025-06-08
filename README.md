@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Tuyizere Honore!
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+### 🧑‍💻 GitHub Contribution Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bitbeast-dev&theme=radical)
+
 
 
 
