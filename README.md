@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Tuyizere Honore!
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bitbeast-dev&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 
 
